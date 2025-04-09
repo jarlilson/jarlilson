@@ -7,7 +7,7 @@ A little about me...
 - 🌎 Brazilian
 - 🎓 Computer Science undergraduate student at [Federal University of Goiás (UFG) - Goiânia, Brasil](https://inf.ufg.br/p/30138-ciencia-da-computacao)
 - 🖥️ Open to remote job offers
-- 📫 How to reach me: jarlilson2@gmail.com
+- 📫 How to reach me: jarlilsonguajajara@discente.ufg.br
 <br>
 <div>
   <a href="https://github.com/jarlilson">
