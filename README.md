@@ -6,7 +6,7 @@ A little about me...
 - 🎨 INTJ
 - 🌎 Brazilian
 - 🎓 Computer Science undergraduate student at [Federal University of Goiás (UFG) - Goiânia, Brasil](https://inf.ufg.br/p/30138-ciencia-da-computacao)
-- 🖥️ Open to remote job offers
+- 🖥️ Lattes: http://lattes.cnpq.br/8642729589276045
 - 📫 How to reach me: jarlilsonguajajara@discente.ufg.br
 <br>
 <div>
